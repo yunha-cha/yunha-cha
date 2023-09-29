@@ -19,7 +19,7 @@
 
 ---
 ### BoJ stats
-<a href="https://solved.ac/helena0228"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=helena0228&theme=dark"/></a>
+<a href="https://solved.ac/helena0228"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=helena0228&theme=dark"/></a>
 ---
 
 </div>
