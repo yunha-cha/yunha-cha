@@ -23,4 +23,7 @@
 <a href="https://solved.ac/helena0228"><img align="" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=helena0228&theme=dark"/></a>
 --
 
+## Velog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yunha_0228&color=dark)](https://github.com/yunha_0228/velog-readme-stats)
+
 </div>
