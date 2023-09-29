@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**yunha-cha/yunha-cha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸 ### 안녕하세요! <br />
+<b>웹 개발자</b>가 되고 싶은 yunha-cha입니다!
 
-Here are some ideas to get you started:
+### My Skill 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### My Github Stats
+![YunHa's Github Stats](https://github-readme-stats.vercel.app/api?username=Yunhas&show_icons=true&theme=cobalt&count_private=true&show_icons=true&include_all_commits=true) 
+
+### Used Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunhas&hide=TeX&layout=compact)
