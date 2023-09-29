@@ -16,11 +16,11 @@
 
 ![yunha-cha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunha-cha&show_icons=true&theme=cobalt)
 
-
 ---
+
 ### BoJ stats
 <a href="https://solved.ac/helena0228"><img align="right" src="http://mazandi.herokuapp.com/api?handle=helena0228&theme=dark"/></a>
-<a href="https://solved.ac/helena0228"><img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=helena0228&theme=dark"/></a>
+<a href="https://solved.ac/helena0228"><img align="left"src="http://mazassumnida.wtf/api/v2/generate_badge?boj=helena0228&theme=dark"/></a>
 
 ---
 
