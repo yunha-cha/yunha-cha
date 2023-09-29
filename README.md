@@ -24,6 +24,6 @@
 
 
 ## Velog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yunha_0228&color=dark)](https://github.com/yunha_0228)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yunha_0228&color=dark)](https://velog.io/@yunha_0228)
 
 </div>
