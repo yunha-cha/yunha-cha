@@ -2,6 +2,7 @@
 
 ### 🌸안녕하세요!
 <b>웹 개발자</b>가 되고 싶은 <b>Yunha-Cha</b>입니다!
+
 ---
 
 ### My Skill
@@ -15,8 +16,8 @@
 
 <br />
 ![yunha-cha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunha-cha&show_icons=true&theme=cobalt)
----
 
+---
  
 
 
