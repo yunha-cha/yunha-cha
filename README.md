@@ -7,7 +7,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=helena0228)](https://solved.ac/helena0228)
 
-### My Github Stats
 ![yunha-cha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunha-cha&show_icons=true&theme=cobalt)
 
 
