@@ -11,8 +11,9 @@
 ### Github stats
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunha-cha&hide=TeX&layout=compact"/>
-![yunha-cha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunha-cha&show_icons=true&theme=cobalt)
 
+![yunha-cha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunha-cha&show_icons=true&theme=cobalt)
+---
 
  
 
