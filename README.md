@@ -6,7 +6,7 @@
 
 
 ### My Github Stats
-![yunha-cha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunha-cha&show_icons=true&theme=radical)
+![yunha-cha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunha-cha&show_icons=true&theme=onedark)
 
 ### Used Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunha-cha&hide=TeX&layout=compact)
