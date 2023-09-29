@@ -10,16 +10,14 @@
 
 ### Github stats
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunha-cha&hide=TeX&layout=compact"/>
 ![yunha-cha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunha-cha&show_icons=true&theme=cobalt)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunha-cha&hide=TeX&layout=compact"/>
 
-
-### Used Language
  
 
-<a href="https://solved.ac/helena0228"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=helena0228&theme=dark"/></a>
-### 
 
+### 
+<a href="https://solved.ac/helena0228"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=helena0228&theme=dark"/></a>
 
 </div>
