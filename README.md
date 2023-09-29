@@ -21,7 +21,8 @@
 ### BoJ stats
 <a href="https://solved.ac/helena0228"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=helena0228&theme=dark"/></a>
 
-<img src="http://mazandi.herokuapp.com/api?handle=yunha&theme=dark"/>
+<img src="http://mazandi.herokuapp.com/api?handle=helena0228&theme=dark"/>
+
 ---
 
 </div>
