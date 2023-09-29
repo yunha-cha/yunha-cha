@@ -6,7 +6,7 @@
 
 
 ### My Github Stats
-![YunHa's Github Stats](https://github-readme-stats.vercel.app/api?username=Yunhas&show_icons=true&theme=cobalt&count_private=true&show_icons=true&include_all_commits=true) 
+![yunha-cha's Github Stats](https://github-readme-stats.vercel.app/api?username=yunha-cha&show_icons=true&theme=cobalt&count_private=true&show_icons=true&include_all_commits=true) 
 
 ### Used Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunhas&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunha-cha&hide=TeX&layout=compact)
