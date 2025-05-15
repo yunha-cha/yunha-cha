@@ -1,12 +1,5 @@
 <div>
 
-### 🌸안녕하세요!
-<b>웹 개발</b>을 좋아하는 <b>차윤하</b>입니다!
-
-
-
-## My Skill
-
 ### Frontend
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
