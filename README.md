@@ -2,7 +2,7 @@
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=blur&color=f8ff14&text=%20Yun%20&height=300&fontSize=30) -->
-![github-header-image (3)](https://github.com/user-attachments/assets/ea2f96af-b01d-4ec0-8fe4-3baf20b9ddc3)
+![github-header-image (1)](https://github.com/user-attachments/assets/256a5d76-1d98-4fde-a714-6b8533005166)
 
 ### Frontend
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
