@@ -59,16 +59,15 @@ const developer = {
 
 ---
 
-## 📊 **[ SYSTEM.STATS ]**
 
-<div align="center">
+
+<!-- <div align="center">
+## 📊 **[ SYSTEM.STATS ]**
 
 <img src="https://github-readme-stats.vercel.app/api?username=yunha-cha&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=FF006E&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunha-cha&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" alt="Top Languages" height="170"/>
 
-</div>
-
----
+</div> -->
 
 ## 🎮 **[ CURRENT.MISSIONS ]**
 
@@ -90,19 +89,16 @@ class Developer:
 
 ```
 
----
 
+<!-- <div align="center">
 ## 🌌 **[ NETWORK.CONNECT ]**
-<div align="center">
-
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helena0228c@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://your-portfolio.com)
 [![Blog](https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@yunha_0228)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yunha-cha)
 
-</div>
+</div> -->
 
----
 
 <!-- <details open>
 <summary><b>💻 Core Languages</b></summary>
@@ -193,9 +189,8 @@ class CurrentMissions:
 </div> -->
 
 
-## 💭 Dev Quote
-
 <!-- <div align="center">
+## 💭 Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
