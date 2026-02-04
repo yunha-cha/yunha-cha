@@ -204,6 +204,11 @@ class CurrentMissions:
 
 <br/>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{yunha-cha}"/>
+</a>
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&text=Thanks%20for%20Visiting&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
 
 **⭐ From [yunha-cha](https://github.com/yunha-cha)**
