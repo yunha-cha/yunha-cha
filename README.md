@@ -2,7 +2,7 @@
 
 # YUNHA CHA
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7F7&center=true&vCenter=true&width=940&lines=BETTER+CODE%2C+BETTER+ME;STACK+%2F%2F+FRONTEND+%2F%2F+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7F7&center=true&vCenter=true&width=940&lines=BETTER+CODE%2C+BETTER+ME;STACK+%2F%2F+FRONTEND+%2F%2F+DEV" alt="Typing SVG" />
 
 </div>
 
